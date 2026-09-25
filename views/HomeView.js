@@ -15,7 +15,7 @@ export class HomeView {
           <div class="cta-row">
             <button class="cyber-btn cyber-btn--primary" data-go="projects">[ VIEW PROJECTS ]</button>
             <button class="cyber-btn cyber-btn--ghost" data-go="resume">[ DOWNLOAD CV ]</button>
-            <a class="cyber-link" href="https://github.com" target="_blank">[ GITHUB ]</a>
+            <a class="cyber-link" href="https://github.com/nguyenkhoido99" target="_blank">[ GITHUB ]</a>
           </div>
         </div>
         <div class="home-right">

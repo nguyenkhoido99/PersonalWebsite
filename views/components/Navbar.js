@@ -10,7 +10,7 @@ export class NavbarView {
     const nav = document.createElement('nav');
     nav.className = 'cyber-nav';
     nav.innerHTML = `
-      <div class="cyber-nav__logo">[ DNK<span class="neon-cyan">.DEV</span> ]</div>
+      <div data-section="home" class="cyber-nav__logo">[ DNK<span class="neon-cyan">.DEV</span> ]</div>
       <div class="cyber-nav__links" id="navLinks">
         <a data-section="home" class="active">HOME</a>
         <a data-section="projects">PROJECTS</a>
